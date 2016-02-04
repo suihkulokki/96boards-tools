@@ -2,3 +2,4 @@
 resize-helper               usr/sbin
 resize-helper.service       lib/systemd/system
 96boards-sensors.sh         etc/profile.d/
+backports_pin               etc/apt/preferences.d/
